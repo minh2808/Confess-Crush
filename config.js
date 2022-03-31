@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
-    introTitle: 'chào bạn  ngồi cạnh ',
+    introTitle: 'chào Trang ',
     introDesc: `Trời thu đẹp nhất về đêm
     Đời em đẹp nhất là thêm anh vào
     
