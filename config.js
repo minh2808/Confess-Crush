@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Trời thu đẹp nhất về đêm
     Đời em đẹp nhất là thêm anh vào
     
-    Đằng sau chữ yêu đây là thương`,
+    Đằng sau chữ yêu đây là thươn`,
     btnIntro: '^^HiHi^^',
     title: 'trời thu đẹp nhất về đêm , đời em đẹp nhất là thêm a vào',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
