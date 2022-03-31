@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'chào bạn  ngồi cạnh ',
     introDesc: `Trời thu đẹp nhất về đêm
     Đời em đẹp nhất là thêm anh vào
-    Lạc vào tim anh lẻ loi
+    
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
